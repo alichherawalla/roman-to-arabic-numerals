@@ -5,6 +5,10 @@ Convert roman numerals to arabic numerals
 
 `yarn`
 
+**Run tests**
+
+`yarn test`
+
 **Run the server**
 
 `yarn start` 
