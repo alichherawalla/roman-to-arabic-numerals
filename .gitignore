@@ -1,3 +1,4 @@
+.idea/
 # Logs
 logs
 *.log
@@ -61,3 +62,4 @@ typings/
 .next
 
 dist/
+.DS_Store
